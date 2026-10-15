@@ -42,7 +42,7 @@ Techs: `ESP32` · `MicroPython` · `MQTT` · `WebSocket` · `Node.js` · `Postgr
 **☁️ Data Pipelines & Cloud Architecture &rarr; Arquitetura de Dados em Nuvem**
 <br/><br/>
 Pipelines de ETL end-to-end, modelagem dimensional e conversão de dados para formato Parquet desenvolvidos na Compass UOL.
-<br/><br/>
+<br/><br/><br/>
 Techs: `Python` · `PySpark` · `AWS S3` · `AWS Glue` · `SQL` · `MySQL` · `Docker`
 <br/><br/>
 <a href="https://github.com/pedrovilela/PB-Pedro-Vilela-CompassUOL"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-f3701e?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
@@ -53,9 +53,9 @@ Techs: `Python` · `PySpark` · `AWS S3` · `AWS Glue` · `SQL` · `MySQL` · `D
 <td width="50%" valign="top">
 
 **🎮 Assistente de Meta &rarr; Assistente de Inteligência Artificial**
-<br/><br/>
+<br/><br/><br/>
 Assistente inteligente para análise e entrega do meta de jogos competitivos visando a otimização de desempenho.
-<br/><br/>
+<br/><br/><br/><br/>
 Techs: `JavaScript` · `AI Integration` · `REST APIs` · `HTML5` · `CSS3`
 <br/><br/>
 <a href="https://github.com/pedrovilela/Assistente-de-Meta"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-f3701e?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
@@ -66,9 +66,9 @@ Techs: `JavaScript` · `AI Integration` · `REST APIs` · `HTML5` · `CSS3`
 **👑 Killers Queen &rarr; Protótipo de Jogo em Python**
 <br/><br/><br/>
 Jogo no estilo "Vampire Survivors-like" demonstrando lógica de programação avançada e orientação a objetos.
-<br/><br/><br/>
+<br/><br/><br/><br/>
 Techs: `Python` · `Pygame Zero` · `OOP` · `Algoritmos`
-<br/><br/><br/>
+<br/><br/>
 <a href="https://github.com/pedrovilela/KillersQueen"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-f3701e?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
 
 </td>
@@ -92,7 +92,6 @@ Techs: `Python` · `Pygame Zero` · `OOP` · `Algoritmos`
 
 ![Git](https://img.shields.io/badge/Git-14171A?style=for-the-badge&logo=git&logoColor=f3701e)
 ![GitHub](https://img.shields.io/badge/GitHub-14171A?style=for-the-badge&logo=github&logoColor=f3701e)
-![Jupyter](https://img.shields.io/badge/Jupyter-14171A?style=for-the-badge&logo=jupyter&logoColor=f3701e)
 ![VS Code](https://img.shields.io/badge/VS_Code-14171A?style=for-the-badge&logo=visualstudiocode&logoColor=f3701e)
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4b607f&height=3&width=100%25" width="100%"/>
