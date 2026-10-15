@@ -55,7 +55,7 @@ Techs: `Python` · `PySpark` · `AWS S3` · `AWS Glue` · `SQL` · `MySQL` · `D
 **🎮 Assistente de Meta &rarr; Assistente de Inteligência Artificial**
 <br/><br/><br/>
 Assistente inteligente para análise e entrega do meta de jogos competitivos visando a otimização de desempenho.
-<br/><br/><br/><br/>
+<br/><br/><br/>
 Techs: `JavaScript` · `AI Integration` · `REST APIs` · `HTML5` · `CSS3`
 <br/><br/>
 <a href="https://github.com/pedrovilela/Assistente-de-Meta"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-f3701e?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
