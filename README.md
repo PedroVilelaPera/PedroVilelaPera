@@ -66,9 +66,9 @@ Techs: `JavaScript` · `AI Integration` · `REST APIs` · `HTML5` · `CSS3`
 **👑 Killers Queen &rarr; Protótipo de Jogo em Python**
 <br/><br/>
 Jogo no estilo "Vampire Survivors-like" demonstrando lógica de programação avançada e orientação a objetos.
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 Techs: `Python` · `Pygame Zero` · `OOP` · `Algoritmos`
-<br/><br/>
+<br/><br/><br/>
 <a href="https://github.com/pedrovilela/KillersQueen"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-f3701e?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
 
 </td>
