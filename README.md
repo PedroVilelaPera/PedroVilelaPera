@@ -29,7 +29,7 @@
 <td width="50%" valign="top">
 
 **📡 SMAN &rarr; Sistema de Monitoramento de Ambientes**
-<br/><br/>
+<br/><br/><br/>
 Sistema de coleta, integração e armazenamento de dados em tempo real utilizando sensores IoT.
 <br/><br/><br/><br/>
 Techs: `ESP32` · `MicroPython` · `MQTT` · `WebSocket` · `Node.js` · `PostgreSQL` · `MongoDB` · `Docker`
@@ -66,7 +66,7 @@ Techs: `JavaScript` · `AI Integration` · `REST APIs` · `HTML5` · `CSS3`
 **👑 Killers Queen &rarr; Protótipo de Jogo em Python**
 <br/><br/>
 Jogo no estilo "Vampire Survivors-like" demonstrando lógica de programação avançada e orientação a objetos.
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 Techs: `Python` · `Pygame Zero` · `OOP` · `Algoritmos`
 <br/><br/>
 <a href="https://github.com/pedrovilela/KillersQueen"><img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-f3701e?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
