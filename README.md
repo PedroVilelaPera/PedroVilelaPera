@@ -133,12 +133,14 @@ Protótipo de jogo inspirado em *Vampire Survivors*, desenvolvido em Python, com
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pedrovilela&show_icons=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=f3701e&text_color=f5f2ea&icon_color=f3701e&border_color=4b607f&hide_border=false" height="180" alt="Estatísticas do GitHub"/>
+<img src="https://github-stats-extended.vercel.app/api?username=PedroVilelaPera&show_icons=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=f3701e&text_color=f5f2ea&icon_color=f3701e&border_color=4b607f&hide_border=false" height="180" alt="Estatísticas do GitHub"/>
 
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrovilela&layout=compact&langs_count=5&bg_color=0a0a0a&title_color=f3701e&text_color=f5f2ea&border_color=4b607f&hide_border=false" height="180" alt="Linguagens mais utilizadas nos repositórios"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PedroVilelaPera&layout=compact&langs_count=5&bg_color=0a0a0a&title_color=f3701e&text_color=f5f2ea&border_color=4b607f&hide_border=false" height="180" alt="Linguagens mais utilizadas nos repositórios"/>
+</a>
 
 </td>
 </tr>
