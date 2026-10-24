@@ -53,7 +53,7 @@ Desenvolvimento de pipelines ETL, modelagem dimensional e processamento de dados
 
 <br/>
 
-<a href="https://github.com/pedrovilela/PB-Pedro-Vilela-CompassUOL">
+<a href="https://github.com/PedroVilelaPera/PB-Pedro-Vilela-CompassUOL">
   <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-f3701e?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Ver repositório dos projetos de Engenharia de Dados"/>
 </a>
 
